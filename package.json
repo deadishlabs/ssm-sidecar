@@ -1,0 +1,14 @@
+{
+  "name": "ssm-cred-pull",
+  "version": "1.0.0",
+  "description": "Pull secrets from AWS SSM Parameter Store and set them as env vars.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.219.1"
+  }
+}
